@@ -18,5 +18,3 @@ We provide pre-trained models for your convenience. You can use these models to 
 ## Code Release
 Our code will be made publicly available soon. Stay tuned!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

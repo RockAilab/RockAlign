@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RockAlign
 
 RockAlign is a project designed to provide solutions for accurate point cloud alignment. We provide publicly available datasets and pre-trained models to help you get started quickly.
@@ -17,3 +18,6 @@ We provide pre-trained models for your convenience. You can use these models to 
 
 ## Code Release
 Our code will be made publicly available soon. Stay tuned!
+=======
+# git 2025 08 18
+>>>>>>> init project

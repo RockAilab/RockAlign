@@ -16,8 +16,5 @@ The dataset we use is openly available and can be downloaded from the following 
 ## Pre-trained Models
 We provide pre-trained models for your convenience. You can use these models to test the alignment process or integrate them into your own pipeline.
 
-## Code Release
-Our code will be made publicly available soon. Stay tuned!
-=======
 # git 2025 08 18
 >>>>>>> init project
